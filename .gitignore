@@ -1,0 +1,13 @@
+config.local.js
+.env
+.env.*
+node_modules/
+.netlify/
+coverage/
+.vscode/
+.idea/
+*.log
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
